@@ -1,0 +1,35 @@
+.styled {
+  border: 0;
+  line-height: 10;
+  padding: 0 80px;
+  font-size: 20px;
+  text-align: center;
+  color: rgb(0, 0, 0);
+  border-radius: 20px;
+  background-color: rgba(150, 150, 150, 1);
+}
+
+.box1 {
+  float: left;
+  width: 600px;
+  height: 100px;
+  margin: 10px;
+  font-size: 30px;
+  color: #fff;
+  line-height: 100px;
+  text-align: center;
+  background: rgb(196, 196, 196);
+  border-radius: 20px;
+}
+.box2 {
+  float: left;
+  width: 600px;
+  height: 500px;
+  margin: 10px;
+  font-size: 20px;
+  color: #fff;
+  line-height: 40px;
+  text-align: top;
+  background: rgb(196, 196, 196);
+  border-radius: 20px;
+}
